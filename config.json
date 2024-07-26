@@ -1,0 +1,7 @@
+{
+    "root_dir": "D:\\BitWeaver\\Development\\Repositories\\transcripter\\src",
+    "sub_dirs": ["Services", "Ui", "Models", "Pages", "ViewModels"],
+    "dst_root_dir": "D:\\BitWeaver\\Development\\Repositories\\transcripter\\commented",
+    "extensions": [".cs"],
+    "prompt": "prompt-netmaui.txt"
+}
